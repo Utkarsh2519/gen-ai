@@ -1,0 +1,6 @@
+Fine tuning: It helps to get LLM output text in a certain given style. Its actual implementation is harder then RAG.
+
+Why Fine-tune?
+Fine tuning is mostly used when to carry out a task isn't easy to define in a prompt.
+To help LLM gain specific knowledge.
+To get a smaller model to perform a task.

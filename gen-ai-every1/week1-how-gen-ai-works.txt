@@ -1,0 +1,3 @@
+Gen AI is built using supervised Learning
+How Gen AI generates text using Large Language Models(LLMs)?
+Ans: So, LLMs are built by using supervised learning (A->B) to repeatedly predict the next word.

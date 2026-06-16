@@ -1,0 +1,2 @@
+web based interface                               vs software based llm application
+ex: chatGPT, bard, or bing chat                         email-routing, document search

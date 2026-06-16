@@ -1,0 +1,6 @@
+Limitations of LLM
+1) Can Hallucinate things
+2) Can not be aware of recent data if not trained.
+3) Input length may be limited.
+4) They do not work well with structured data like excel data, tabular data, google sheets etc. Gen AI tends to work better with unstructured data. Examples of unstructured data are text,images,audio,video etc
+5) LLM can produce bias or toxic data

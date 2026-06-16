@@ -1,0 +1,3 @@
+Retrieval Augmented Generation(RAG) uses context to give answers of the prompt.
+
+Examples of RAG Applications: chat pdf, askYourPDF, LightPDF etc

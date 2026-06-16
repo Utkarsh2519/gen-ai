@@ -1,0 +1,2 @@
+What is Gen AI?
+Ans: AI systems that can produce high quality content, such as audio, text and images.
