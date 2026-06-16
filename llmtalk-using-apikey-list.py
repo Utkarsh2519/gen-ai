@@ -3,10 +3,9 @@ import os
 from google import genai
 from google.genai import errors
 
-api_key = os.environ.get(
-    "GOOGLE_API_KEY",
-    "REDACTED"
-)
+api_key = os.environ.get("GOOGLE_API_KEY")
+if not api_key:
+    raise ValueError("GOOGLE_API_KEY environment variable is not set")
 client = genai.Client(api_key=api_key)
 
 models_to_try = [
